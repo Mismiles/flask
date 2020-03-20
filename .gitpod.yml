@@ -1,3 +1,9 @@
+language: python
+
+
+pythinL
+- "3.7.6"
+
 image:
   file: .gitpod.dockerfile
 tasks:
